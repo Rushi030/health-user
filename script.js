@@ -3,7 +3,7 @@
 ***************************/
 
 /************* API Base URL *************/
-const API = "https://health-backend-2-zs46.onrender.com";
+const API = "https://health-backend-44r7.onrender.com";
 
 
 
@@ -1031,6 +1031,7 @@ window.onload = () => {
   }
 
 };
+
 
 
 
